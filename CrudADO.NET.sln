@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudADO.NET", "CrudADO.NET\CrudADO.NET.csproj", "{1CA3233E-C216-43F2-9013-61DE5A10FB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudADO.NET.Data", "CrudADO.NET.Data\CrudADO.NET.Data.csproj", "{3DAFF7A3-F2E9-4766-8416-A4210DA5F32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudADO.NET.Domain", "CrudADO.NET.Domain\CrudADO.NET.Domain.csproj", "{842B9A6B-61B3-466E-A117-819AE6712B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudADO.NET.Service", "CrudADO.NET.Service\CrudADO.NET.Service.csproj", "{CB90A61B-C084-440B-80E4-1C240FDEA66C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA3233E-C216-43F2-9013-61DE5A10FB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA3233E-C216-43F2-9013-61DE5A10FB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA3233E-C216-43F2-9013-61DE5A10FB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA3233E-C216-43F2-9013-61DE5A10FB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAFF7A3-F2E9-4766-8416-A4210DA5F32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAFF7A3-F2E9-4766-8416-A4210DA5F32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAFF7A3-F2E9-4766-8416-A4210DA5F32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAFF7A3-F2E9-4766-8416-A4210DA5F32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842B9A6B-61B3-466E-A117-819AE6712B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842B9A6B-61B3-466E-A117-819AE6712B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842B9A6B-61B3-466E-A117-819AE6712B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842B9A6B-61B3-466E-A117-819AE6712B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB90A61B-C084-440B-80E4-1C240FDEA66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB90A61B-C084-440B-80E4-1C240FDEA66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB90A61B-C084-440B-80E4-1C240FDEA66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB90A61B-C084-440B-80E4-1C240FDEA66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D058B630-FFE0-4C23-BB6A-1040356287FF}
+	EndGlobalSection
+EndGlobal

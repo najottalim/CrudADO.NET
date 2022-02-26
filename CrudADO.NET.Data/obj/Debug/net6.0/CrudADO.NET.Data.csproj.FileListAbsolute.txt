@@ -1,0 +1,15 @@
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\bin\Debug\net6.0\CrudADO.NET.Data.deps.json
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\bin\Debug\net6.0\CrudADO.NET.Data.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\bin\Debug\net6.0\CrudADO.NET.Data.pdb
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\bin\Debug\net6.0\CrudADO.NET.Domain.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\bin\Debug\net6.0\CrudADO.NET.Domain.pdb
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.csproj.AssemblyReference.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.AssemblyInfoInputs.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.AssemblyInfo.cs
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.csproj.CoreCompileInputs.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.csproj.CopyComplete
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\refint\CrudADO.NET.Data.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\CrudADO.NET.Data.pdb
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Data\obj\Debug\net6.0\ref\CrudADO.NET.Data.dll

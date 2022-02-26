@@ -1,0 +1,12 @@
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\bin\Debug\net6.0\CrudADO.NET.Domain.deps.json
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\bin\Debug\net6.0\CrudADO.NET.Domain.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\bin\Debug\net6.0\CrudADO.NET.Domain.pdb
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.csproj.AssemblyReference.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.AssemblyInfoInputs.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.AssemblyInfo.cs
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.csproj.CoreCompileInputs.cache
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\refint\CrudADO.NET.Domain.dll
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\CrudADO.NET.Domain.pdb
+C:\Users\radja\OneDrive\Рабочий стол\.NET\CrudADO.NET\CrudADO.NET.Domain\obj\Debug\net6.0\ref\CrudADO.NET.Domain.dll
